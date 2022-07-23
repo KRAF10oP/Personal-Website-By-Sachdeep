@@ -9,9 +9,10 @@
 - Hobby: I love games like football and cricket.
 
 ## Social Media 📸
-- [Instagram](https://instagram.com/u/sxchdeep)
+- [Instagram](https://www.instagram.com/sxchdeep/)
 - [Discord](https://discord.com/users/726326726078103622)
 
 ## Want Same Site Like This?
 - [Click Here](https://github.com/KRAF10oP/my-introduction-site)
+
 
